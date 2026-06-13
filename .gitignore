@@ -1,6 +1,10 @@
-.DS_Store
 __pycache__/
 *.pyc
+.DS_Store
+.idea/
+.venv/
 node_modules/
-data/
-local_data/
+data/*.csv
+data/*.html
+local_data/*.csv
+local_data/*.html
